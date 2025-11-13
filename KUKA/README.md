@@ -1,0 +1,1 @@
+This folder contains info and links about KUKA robots
