@@ -21,6 +21,7 @@
 ## SmartPad
 - [KUKA SmartPad explained | The Robotics Channel](https://www.youtube.com/watch?v=2TByTX19MPM)
 - [KUKA smartPad basics, functions and operations explained](https://www.youtube.com/watch?v=Xokgh26EAzU)
+- [How to use variables in KUKA robot](https://www.youtube.com/watch?v=0qdBlqeB9Zo)
 
 
 ## OrangeEdit
